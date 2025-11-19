@@ -65,7 +65,7 @@
 - 🌐 **官方网站**: [MeowStack.com](https://MeowStack.com)
 - 📧 **电子邮件**: contact@meowstack.com
 - 🐱 **GitHub**: [@MeowStackTech](https://github.com/MeowStackTech)
-- 🐱 **Gitee**: [@meowstack](https://gitee.com/meowstack)
+- 🐱 **Gitee**: [@MeowStack](https://gitee.com/MeowStack)
 
 ---
 
