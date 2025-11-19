@@ -3,6 +3,7 @@
   <p>
     <a href="https://MeowStack.com"><img src="https://img.shields.io/badge/🌐_官网-MeowStack.com-blue?style=for-the-badge" alt="官网"></a>
     <a href="https://github.com/MeowStackTech"><img src="https://img.shields.io/github/followers/MeowStackTech?style=for-the-badge&logo=github" alt="GitHub关注"></a>
+    <a href="https://gitee.com/meowstack"><img src="https://img.shields.io/badge/Gitee-关注-meowstack?style=for-the-badge&logo=gitee" alt="Gitee关注"></a>
   </p>
 </div>
 
@@ -26,11 +27,10 @@
 
 - 🔐 **强大的代码混淆** - 多层次代码混淆技术，有效防止逆向工程
 - 🛡️ **反调试保护** - 智能检测和阻止各类调试器和分析工具
-- 🔒 **许可证管理** - 灵活的授权系统，支持多种许可模式
 - ⚡ **性能优化** - 最小化性能开销，保持原生执行效率
 - 🌍 **跨平台支持** - 支持 Windows、Linux、macOS 等多个平台
 - 📊 **实时监控** - 运行时保护与异常行为监测
-- 🔧 **易于集成** - 简单的 API 接口，快速集成到现有项目
+- 🔧 **易于集成** - 简单的接口，快速集成到现有项目
 
 #### 🎯 适用场景
 
@@ -65,6 +65,7 @@
 - 🌐 **官方网站**: [MeowStack.com](https://MeowStack.com)
 - 📧 **电子邮件**: contact@meowstack.com
 - 🐱 **GitHub**: [@MeowStackTech](https://github.com/MeowStackTech)
+- 🐱 **Gitee**: [@meowstack](https://gitee.com/meowstack)
 
 ---
 
